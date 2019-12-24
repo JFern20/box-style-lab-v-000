@@ -41,9 +41,13 @@ h4.amiable {
     #66ee88
   );
   
-  
-  
 }
+
+  h4.amiable:hover {
+  
+    
+  }
+
 
 .indifferent {
   border:1px solid gray;
